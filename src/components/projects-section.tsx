@@ -9,22 +9,22 @@ const projects = [
     name: "Numeric Methods escape room",
     description:
       "An escape room that needs to solve problems with numeric methods to win.",
-    image: "/thankfulthoughts.png",
+    image: "/codingIMG.webp",
     github: "https://github.com/Abdriel03/metodosnumericos",
     link: "https://github.com/Abdriel03",
   },
   {
-    name: "PlatoIO",
+    name: "DigitalPot",
     description: "An AI that can recognizes plants based in the Oxford historial and can be used as an API.",
-    image: "/platoio.png",
+    image: "/codingIMG.webp",
     github: "https://github.com/Abdriel03",
     link: "https://github.com/Abdriel03",
   },
   {
-    name: "Kator Family Photos",
+    name: "TheBestSong",
     description:
       "With this AI you can recognize the musical genre of a song and get some recommendations based in that genre.",
-    image: "/familyphotos.png",
+    image: "/codingIMG.webp",
     github: "https://github.com/Abdriel03",
     link: "https://github.com/Abdriel03",
   },

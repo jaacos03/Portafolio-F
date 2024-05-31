@@ -5,14 +5,11 @@ const skills = [
   { skill: "HTML" },
   { skill: "CSS" },
   { skill: "JavaScript" },
-  { skill: "TypeScript" },
   { skill: "Python" },
   { skill: "React" },
-  { skill: "Next.js" },
-  { skill: "Tailwind CSS" },
   { skill: "Git" },
   { skill: "GitHub" },
-  { skill: "Jupyter Notebooks" },
+  { skill: "SQL" },
 ]
 
 const AboutSection = () => {

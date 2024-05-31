@@ -26,8 +26,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Student of Software Engineer{" "}
             </span>
-            based in Los Angeles, CA. Working towards creating software that
-            makes life easier and more meaningful.
+            based in Monterrey. Working to create solutions and make the change.
           </p>
           <Link
             to="projects"

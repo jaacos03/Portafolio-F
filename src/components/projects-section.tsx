@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Numeric Methods escape room",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+      "An escape room that needs to solve problems with numeric methods to win.",
     image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+    github: "https://github.com/Abdriel03/metodosnumericos",
+    link: "https://github.com/Abdriel03",
   },
   {
     name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
+    description: "An AI that can recognizes plants based in the Oxford historial and can be used as an API.",
     image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    github: "https://github.com/Abdriel03",
+    link: "https://github.com/Abdriel03",
   },
   {
     name: "Kator Family Photos",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
+      "With this AI you can recognize the musical genre of a song and get some recommendations based in that genre.",
     image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "https://github.com/Abdriel03",
+    link: "https://github.com/Abdriel03",
   },
 ]
 

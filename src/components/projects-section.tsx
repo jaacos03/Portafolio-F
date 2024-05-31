@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Numeric Methods escape room",
+    name: "Thankful Thoughts",
     description:
-      "An escape room that needs to solve problems with numeric methods to win.",
-    image: "/codingIMG.webp",
-    github: "https://github.com/Abdriel03/metodosnumericos",
-    link: "https://github.com/Abdriel03",
+      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+    image: "/thankfulthoughts.png",
+    github: "https://github.com/hqasmei/thankful-thoughts",
+    link: "https://thankfulthoughts.io/",
   },
   {
-    name: "DigitalPot",
-    description: "An AI that can recognizes plants based in the Oxford historial and can be used as an API.",
-    image: "/codingIMG.webp",
-    github: "https://github.com/Abdriel03",
-    link: "https://github.com/Abdriel03",
+    name: "PlatoIO",
+    description: "PlatoIO is a to do list app that built using the PERN stack.",
+    image: "/platoio.png",
+    github: "https://github.com/hqasmei/platoio",
+    link: "https://platoio.com/register",
   },
   {
-    name: "TheBestSong",
+    name: "Kator Family Photos",
     description:
-      "With this AI you can recognize the musical genre of a song and get some recommendations based in that genre.",
-    image: "/codingIMG.webp",
-    github: "https://github.com/Abdriel03",
-    link: "https://github.com/Abdriel03",
+      "Kator Family Photos is a photos and video digitization service in the LA area.",
+    image: "/familyphotos.png",
+    github: "https://github.com/hqasmei/katorfamilyphotos",
+    link: "https://katorfamilyphotos.com/",
   },
 ]
 

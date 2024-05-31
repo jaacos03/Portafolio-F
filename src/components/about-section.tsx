@@ -35,7 +35,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              Im actually a studen in the Universidad Autonoma de Nuevo Leon.
+              Im actually a student at the Universidad Autonoma de Nuevo Leon.
             </p>
             <br />
             <p>

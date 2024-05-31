@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Numeric Methods escape room",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+      "This was a scholar project, it consists in a puzzle and you need to solve some ecuations applying numeric methods..",
     image: "/codingIMG.webp",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+    github: "https://github.com/jaacos03",
+    link: "https://github.com/jaacos03",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
+    name: "DigitalPot",
+    description: "DigitalPot is an app that uses AI to recognizes plants and you cann added to your profile and can look for the treatments that the plant needs..",
     image: "/codingIMG.webp",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    github: "https://github.com/jaacos03",
+    link: "https://github.com/jaacos03",
   },
   {
-    name: "Kator Family Photos",
+    name: "TheBestSong",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
+      "An AI to recognizes the genre of the song and recommends songs similars.",
     image: "/codingIMG.webp",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "https://github.com/jaacos03",
+    link: "https://github.com/jaacos03",
   },
 ]
 
